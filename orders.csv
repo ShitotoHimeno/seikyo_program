@@ -1,0 +1,11 @@
+order_date,order_status,update_date,customer_id
+2025-08-03,shipped,2025-08-03,1
+2025-07-29,shipped,2025-08-03,2
+2025-07-24,received,2025-08-03,3
+2025-07-19,received,2025-08-03,4
+2025-07-14,cancelled,2025-08-03,5
+2025-07-09,received,2025-08-03,6
+2025-07-04,shipped,2025-08-03,7
+2025-06-29,cancelled,2025-08-03,8
+2025-06-24,cancelled,2025-08-03,9
+2025-06-19,cancelled,2025-08-03,10

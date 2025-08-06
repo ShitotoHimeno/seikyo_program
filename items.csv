@@ -1,0 +1,11 @@
+item_name,item_category,price,created_date,update_date,producer_id
+Item_1,Vegetable,385,2025-08-03,2025-08-03,1
+Item_2,Vegetable,849,2025-07-24,2025-08-03,2
+Item_3,Fruit,244,2025-07-14,2025-08-03,3
+Item_4,Vegetable,793,2025-07-04,2025-08-03,4
+Item_5,Vegetable,621,2025-06-24,2025-08-03,5
+Item_6,Grain,974,2025-06-14,2025-08-03,6
+Item_7,Grain,213,2025-06-04,2025-08-03,7
+Item_8,Grain,955,2025-05-25,2025-08-03,8
+Item_9,Vegetable,256,2025-05-15,2025-08-03,9
+Item_10,Fruit,860,2025-05-05,2025-08-03,10
