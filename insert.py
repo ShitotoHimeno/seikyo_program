@@ -14,3 +14,5 @@ sql.execute('''
     INSERT 
 '''
 )
+
+print("これは試験です")
