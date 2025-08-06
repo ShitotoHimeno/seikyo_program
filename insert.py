@@ -16,3 +16,4 @@ sql.execute('''
 )
 
 print("これは試験です")
+print("できる")
