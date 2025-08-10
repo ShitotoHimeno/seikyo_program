@@ -40,3 +40,7 @@ orders = pd.DataFrame({
     "customer_id": [i % 10 + 1 for i in range(10)]
 })
 orders.to_csv("orders.csv", index=False)
+
+order_details = pd.DataFrame({
+    
+})
